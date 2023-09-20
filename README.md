@@ -4,4 +4,4 @@ A practice assignment for HTML with CSS
 
 hosted at : <a href="https://44563-webapps-f23-assignment4-VennelaReddyBaddam/playpart.html">playpart.html</a>
 
-<a href="https://github.com/44-563-WebApps-F23/44563-webapps-f23-assignment4-VennelaReddyBaddam/settings/pages"></a>
+<a href="https://github.com/44-563-WebApps-F23/44563-webapps-f23-assignment4-VennelaReddyBaddam/settings/pages">check for git pages</a>
