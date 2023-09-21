@@ -2,6 +2,6 @@
 # WebApps-F23-Assignment-4
 A practice assignment for HTML with CSS
 
-hosted at : <a href="C:\Users\S566656\Documents\web apps\my2-Baddam\44563-webapps-f23-assignment4-VennelaReddyBaddam\playpart.html">playpart.html</a>
+[hosted at](https://44-563-webapps-f23.github.io/44563-webapps-f23-assignment4-VennelaReddyBaddam/playpart.html)
 
 <a href="https://github.com/44-563-WebApps-F23/44563-webapps-f23-assignment4-VennelaReddyBaddam/settings/pages">check for git pages</a>
